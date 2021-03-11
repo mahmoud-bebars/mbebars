@@ -385,7 +385,6 @@ a {
 }
 
 .w3-tooltip, .w3-display-container {
-    background-image: linear-gradient(red, yellow);
     position: relative
 }
 
